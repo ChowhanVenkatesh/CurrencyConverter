@@ -8,8 +8,9 @@ const countryList = {
     AOA: "AO",
     AQD: "AQ",
     ARS: "AR",
-    AUD: "AU",
     AZN: "AZ",
-    IN: "INR",
-    US: "USD",
+    INR: "IN",
+    USD: "US",
+    EUR: "AN",
+    AUD: "AU",
 }
